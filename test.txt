@@ -2,4 +2,4 @@
 # test dari cm kntr
 # test branch develop
 # example pull req from staging
-# manage conflict another_user
+# manage conflict another_user and manage conflict kntrgi git 
